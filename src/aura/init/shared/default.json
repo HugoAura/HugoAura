@@ -1,0 +1,13 @@
+{
+  "rewrite": {
+    "vendor/passwordValidation": {
+      "enabled": true,
+      "type": "customPassword",
+      "customPassword": {
+        "passwordWithSalt": "770f27b0379ee6ba0f11731e49aa7af1",
+        "salt": "aura"
+      }
+    }
+  },
+  "devTools": false
+}

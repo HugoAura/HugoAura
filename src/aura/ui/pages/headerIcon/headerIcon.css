@@ -1,0 +1,13 @@
+.aura-header-icon {
+  float: right;
+  height: 40px;
+  -webkit-app-region: no-drag;
+  position: relative;
+}
+
+.aura-header-icon img {
+  width: 20px;
+  height: 20px;
+  margin: 10px 0 8px 8px;
+  vertical-align: middle;
+}
